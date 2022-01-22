@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "watch": true,
+        "lib": ["dom", "es6"]
+    },
+    "exclude": [
+        "./conteudosTS"
+    ],
+    "moduleResolution": "Node"
+}

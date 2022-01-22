@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "deep-equal": "^2.0.5",
+    "lodash": "^4.17.21",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.178",
+    "@types/node": "^17.0.10"
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
