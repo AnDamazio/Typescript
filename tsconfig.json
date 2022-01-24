@@ -1,11 +1,13 @@
 {
     "compilerOptions": {
         "target": "esnext",
-        "watch": true,
-        "lib": ["dom", "es6"]
+        "watch": false,
+        "lib": ["dom", "es2021"]
     },
-    "exclude": [
-        "./conteudosTS"
+    "remove": [
+        "./conteudosTS",
     ],
-    "moduleResolution": "Node"
+    "exclude": [
+        "./conteudosTS",   
+    ]
 }

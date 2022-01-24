@@ -1,3 +1,4 @@
+//É como um auto-import
 namespace Utility {
     export function log(msg) {
         console.log(msg);
